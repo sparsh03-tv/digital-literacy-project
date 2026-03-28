@@ -1,0 +1,78 @@
+# Stay Safe Online – Prevention Checklist
+### CSE0001 Digital Literacy | Task 5 | UPI & Cybercrime Safety
+
+> **Report cybercrime:** [cybercrime.gov.in](https://cybercrime.gov.in)
+> **Helpline:** 1930 (available 24x7)
+
+---
+
+## General Online Safety
+
+- [ ] **Use strong, unique passwords** for every account. Use a password manager
+      (like Google Password Manager or Bitwarden) instead of reusing passwords.
+
+- [ ] **Enable two-factor authentication (2FA)** on your email, social media, and
+      banking apps. Prefer an authenticator app over SMS-based OTP where possible.
+
+- [ ] **Keep your apps and phone OS updated.** Security patches in updates fix
+      known vulnerabilities that scammers actively exploit.
+
+- [ ] **Never click on links in unsolicited SMS or WhatsApp messages**, even if
+      they appear to come from known brands. Always go directly to the official app
+      or website instead.
+
+- [ ] **Verify before you trust.** If someone calls claiming to be from a bank,
+      UPI platform, or government office, hang up and call back on the official number
+      listed on their website — never the number the caller provides.
+
+- [ ] **Do not share OTPs, UPI PINs, or CVV numbers** with anyone over call,
+      chat, or email. No legitimate bank or payment platform ever asks for these.
+
+---
+
+## UPI & Financial Safety (Specific Tips)
+
+- [ ] **Understand the difference between Send and Receive.**
+      Entering your UPI PIN always means MONEY GOES OUT. You never need your
+      PIN to receive money. If someone asks you to "enter your PIN to receive a
+      refund," it is a scam — stop immediately.
+
+- [ ] **Reject unknown payment requests.** On Google Pay, PhonePe, or Paytm,
+      if you receive a ₹1 or small-amount request from an unknown number, do not
+      approve it — scammers use this to test if the account is active.
+
+- [ ] **Set a daily UPI transaction limit** in your bank's app or UPI settings.
+      Limiting to ₹5,000–₹10,000/day reduces the damage if your account is
+      ever compromised.
+
+- [ ] **Check the payee name carefully before approving any transaction.**
+      Scammers use names like "Google Pay Support" or "SBI Refund Desk" to
+      appear legitimate. Verify it is who you intend to pay.
+
+---
+
+## Social Media & Identity Safety
+
+- [ ] **Keep your mobile number and Aadhaar details private on social media.**
+      Scammers harvest this information to make social engineering calls more
+      convincing.
+
+- [ ] **Review your app permissions regularly.** Revoke access to your contacts,
+      SMS, and location for apps that do not need them — malicious apps use these
+      to steal OTPs and contacts.
+
+---
+
+## If You Are Scammed
+
+- [ ] **Call 1930 immediately** (National Cyber Crime Helpline) — the sooner you
+      report, the higher the chance of freezing the funds before they are withdrawn.
+- [ ] **File a complaint online at cybercrime.gov.in** with transaction details,
+      screenshots, and the scammer's number.
+- [ ] **Inform your bank** to flag the transaction and request a chargeback inquiry.
+- [ ] **Do not feel ashamed** — UPI fraud is sophisticated and affects millions of
+      people. Reporting quickly helps protect others too.
+
+---
+
+*Compiled for CSE0001 – Digital Literacy, VIT Bhopal University*
